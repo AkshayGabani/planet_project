@@ -1,16 +1,2 @@
-# planet_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-02-11 153054](https://user-images.githubusercontent.com/117704220/218252446-87529511-9d9c-4e64-b4c4-b9367350510c.png)
+![Screenshot 2023-02-11 153655](https://user-images.githubusercontent.com/117704220/218252479-7a36819f-0dc0-4411-b513-e3262af84a67.png)
